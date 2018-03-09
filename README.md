@@ -12,17 +12,18 @@
 * 解决问题能力强，填坑经验丰富，调试能力强。
 * 喜欢总结思考。写博客
     * csdn博客：http://blog.csdn.net/liusaint1992
-    * github博客:https://github.com/liusaint/ls-blog/issues
+    * github博客:https://github.com/liusaint/ls-blog/blob/master/README.md
     * 业余作品：http://runningls.com/demos/
 
 #### 经历
-* Integle鹰谷公司核心项目 电子实验记录本 前端。 
+* Integle鹰谷公司核心项目 Indraw 电子实验记录本 前端。 
 * JavaScript扎实。擅长复杂bug调试。
 * 主导多个单页、多页应用的架构及开发，项目涉及工具类应用，管理系统，电商平台，QA系统，地理信息应用等等。
 
 #### 专业技能
 
 * 注重JavaScript基础，大量反复阅读相关书籍。 对JavaScript面向对象编程、异步编程、设计模式、跨域、自定义事件、事件命名空间、原型链、闭包、作用域链等有一定认识。
+* 熟悉前端性能优化。
 * 很熟练jQuery,能用jQuery解决遇到的各种问题。
 * 擅长调试复杂bug。熟练使用多种浏览器调试技巧。快速定位解决问题。编写过chrome浏览器插件。有丰富的填坑经验。 多个公司旧有复杂单页项目的填坑、维护、迭代经验。
 * 熟练使用后台语言PHP，熟悉后端controller层操作。熟练切换前后端技能，能用前端解决问题也能用后端技术解决问题。能清晰地分辨问题是出自前端还是后端。
@@ -149,5 +150,8 @@ MySQL,SQLServer
 #### 其他
 * 前两家公司试用期转正都因工作突出额外加薪。
 * 前两家公司年终分别获得新人奖和表彰奖。
+
+
+
 
 
