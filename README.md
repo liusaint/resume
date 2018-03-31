@@ -66,6 +66,12 @@
 
 ##### 鹰谷信息科技有限公司
 
+* inDraw结构式编辑器 http://in.indraw.integle.com/
+
+公司核心项目。国内第一的结构式编辑器。国外有同类工具chemDraw。
+
+大型工具类canvas富应用。基于canvas的MVC架构的大型应用。
+
 * 电子实验记录本  http://eln.integle.com/
 
 公司核心产品之一。工具类产品。复杂单页应用。
